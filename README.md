@@ -1,2 +1,1 @@
-git clone http://pawan@projects.rapidor.co/pawan/general.git
-# githubparsing
+run the a.py in pycharm 
